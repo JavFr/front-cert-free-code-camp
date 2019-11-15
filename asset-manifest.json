@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/front-cert-free-code-camp/static/css/main.b100e6da.chunk.css",
+    "main.js": "/front-cert-free-code-camp/static/js/main.7a30f891.chunk.js",
+    "main.js.map": "/front-cert-free-code-camp/static/js/main.7a30f891.chunk.js.map",
+    "runtime-main.js": "/front-cert-free-code-camp/static/js/runtime-main.d0f836c6.js",
+    "runtime-main.js.map": "/front-cert-free-code-camp/static/js/runtime-main.d0f836c6.js.map",
+    "static/css/2.78df34ce.chunk.css": "/front-cert-free-code-camp/static/css/2.78df34ce.chunk.css",
+    "static/js/2.79f79f75.chunk.js": "/front-cert-free-code-camp/static/js/2.79f79f75.chunk.js",
+    "static/js/2.79f79f75.chunk.js.map": "/front-cert-free-code-camp/static/js/2.79f79f75.chunk.js.map",
+    "index.html": "/front-cert-free-code-camp/index.html",
+    "precache-manifest.edc69cf37d6373b651f128b9a4cce3d7.js": "/front-cert-free-code-camp/precache-manifest.edc69cf37d6373b651f128b9a4cce3d7.js",
+    "service-worker.js": "/front-cert-free-code-camp/service-worker.js",
+    "static/css/2.78df34ce.chunk.css.map": "/front-cert-free-code-camp/static/css/2.78df34ce.chunk.css.map",
+    "static/css/main.b100e6da.chunk.css.map": "/front-cert-free-code-camp/static/css/main.b100e6da.chunk.css.map",
+    "static/media/mdb.css": "/front-cert-free-code-camp/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/front-cert-free-code-camp/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/logo.svg": "/front-cert-free-code-camp/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0f836c6.js",
+    "static/css/2.78df34ce.chunk.css",
+    "static/js/2.79f79f75.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.7a30f891.chunk.js"
+  ]
+}
