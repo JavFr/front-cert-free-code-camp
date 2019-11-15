@@ -11,7 +11,7 @@ const QuoteBox = (props) => {
             .replace(/\s/g, '%20');
 
     return(
-        <MDBCard id='quote-box'>
+        <MDBCard id='quote-box' className='py-3'>
             <MDBCardBody>
             <MDBCardText>
                 <RenderQuote quote={props.quote} author={props.author}/>
