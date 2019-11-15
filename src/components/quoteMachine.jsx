@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { MDBContainer } from 'mdbreact';
+import { MDBContainer, MDBRow, MDBCol } from 'mdbreact';
 import { QUOTES } from '../quotes';
 import QuoteBox from './quoteBox';
 
@@ -19,7 +19,11 @@ const QuoteMachine = () => {
 
     return (
         <MDBContainer className='d-flex align-items-center justify-content-center bg-default' >
-            <QuoteBox quote={quote.quote} author={quote.author} newQuoteAction={() => changeQuote(QUOTES[randomQuote()])}/>
+            <MDBRow className='justify-content-center'>
+                <MDBCol size='12' md='10' lg='8'>
+                    <QuoteBox quote={quote.quote} author={quote.author} newQuoteAction={() => changeQuote(QUOTES[randomQuote()])}/>
+                </MDBCol>
+            </MDBRow>
         </MDBContainer>
     );
 }
